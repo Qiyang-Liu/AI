@@ -1,1 +1,1 @@
-# gitskills
+# 五子棋AI
